@@ -1,4 +1,4 @@
-## Hi there 👋
+### HSE SPb enjoyer. C++/python lowskill developer. If you want to work with me, find someone better
 
 <!--
 **dast3rr/dast3rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
