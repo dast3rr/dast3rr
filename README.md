@@ -1,5 +1,7 @@
 ### HSE SPb enjoyer. C++ lowskill developer. If you want to work with me, find someone better
 
+#### Заходит тестировщик в бар. Забегает в бар. Пролезает в бар. Врывается в бар. Заказывает кружку безалкогольного пива. Заказывает 0 кружек пива. Заказывает −1 кружку пива. Заказывает qwertyuiop кружек пива. Заходит первый реальный посетитель и спрашивает, где туалет. Бар сгорает.
+
 <!--
 **dast3rr/dast3rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
